@@ -89,5 +89,5 @@
 		</plugins>
 	</build>
 
-	<description>This is a component that brings common controller methods for easier and faster development.</description>
+	<description>This is a component that brings common controller methods for easier and faster JSF development.</description>
 </project>
